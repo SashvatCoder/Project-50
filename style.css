@@ -1,0 +1,41 @@
+h1 {
+    color: brown;
+    background-color: mediumblue;
+}
+
+.menu{
+background-color:green;
+justify-content: space-between;
+}
+
+.header{
+    background-color: cyan;
+    display:flex;
+    justify-content: space-between;
+    }
+
+.grid {
+display:flex;
+flex-wrap: wrap;
+justify-content: space-evenly;
+}
+
+
+ 
+
+
+p{
+text-align: left;
+background-color: greenyellow;
+}
+
+body{
+background-color: #ffffff
+}
+
+.grid img{
+border:solid;
+border-radius: 20px;
+border-width:4px;
+border-color: greenyellow;
+}
